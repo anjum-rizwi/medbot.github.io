@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/medbot.github.io/CopilotIndices/17.14.878.3237/CodeChunks.db
+/.vs/medbot.github.io/CopilotIndices/17.14.878.3237/CodeChunks.db-shm
+/.vs/medbot.github.io/CopilotIndices/17.14.878.3237/CodeChunks.db-wal
+/.vs/medbot.github.io/CopilotIndices/17.14.878.3237/SemanticSymbols.db
+/.vs/medbot.github.io/CopilotIndices/17.14.878.3237/SemanticSymbols.db-shm
+/.vs/medbot.github.io/CopilotIndices/17.14.878.3237/SemanticSymbols.db-wal
+/.vs/medbot.github.io/FileContentIndex/a663e525-6015-4beb-ae56-611b00b36799.vsidx
+/.vs/medbot.github.io/v17/.wsuo
+/.vs/medbot.github.io/v17/DocumentLayout.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
